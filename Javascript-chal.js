@@ -1,6 +1,6 @@
 
 
-<!-- JavaScript:
+< !-- JavaScript:
 Write a function that retrieves the top 3 longest words of a newspaper headline and transforms them into hashtags. If multiple words tie for the same length, retrieve the word that occurs first.
 
 Examples
@@ -16,6 +16,7 @@ getHashTags("Hey Parents, Surprise, Fruit Juice Is Not Fruit")
 getHashTags("Visualizing Science")
 --> ["#visualizing", "#science"]
 -->
+>
 
 function getHashTags(phrase) {
 
